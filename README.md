@@ -1,32 +1,57 @@
-Sou **Luis Camargo**, especialista em dados aplicados à operação.  
-Tenho experiência sólida com **Power BI, Python, SQL, Google Sheets (App Script) e automações com n8n**, atuando com foco em:
+# 👋 Olá, eu sou Luis Camargo
 
-- Estruturação de **KPIs e dashboards executivos**
-- **Automação de processos manuais e repetitivos**
-- Integração de dados entre áreas (comercial, operação, logística)
-- Apoio à **tomada de decisão baseada em dados**
-- Criação de **soluções completas com App Script + HTML para interfaces customizadas**
-
-Busco sempre entregar soluções simples, funcionais e escaláveis — conectando análise técnica com visão estratégica de negócio.
+Sou **Especialista em Dados e Operações**, com foco em construir soluções inteligentes e acessíveis que conectam dados, pessoas e decisões.  
+Atuo com tecnologia, automação e análise estratégica para transformar operações em ambientes mais eficientes, escaláveis e orientados por performance.
 
 ---
 
-## 🚀 Projetos em destaque
+## 🚀 Stack Técnica
+
+Tenho experiência prática com diversas ferramentas e linguagens, incluindo:
+
+- **📊 BI & Dados**: Power BI, DAX, Python (Pandas, Numpy), SQL
+- **🧠 Automação & Workflow**: Python, n8n, App Script (Google), Streamlit
+- **🌐 Web**: HTML5, CSS3, JavaScript, Node.js
+- **📈 Visualização e Insight**: Dashboards executivos, indicadores, painéis NPS e operacionais
+- **🧩 Integração de fontes**: APIs, Google Sheets, bancos relacionais e não relacionais
+- **🧪 Análise preditiva e performance**: Modelagem de dados com foco em operação e resultado
+
+---
+
+## 💼 Como eu atuo
+
+Meu foco é unir a **visão de negócio** com a **capacidade técnica** para:
+
+- Automatizar processos manuais
+- Reduzir retrabalho com integração de dados
+- Criar dashboards de performance e controle
+- Gerar alertas inteligentes (KPI deviation, ruptura, backlog)
+- Suportar a tomada de decisão de forma simples e objetiva
+
+---
+
+## 📂 Projetos em destaque
 
 | Projeto                         | Descrição                                                                 |
 |--------------------------------|---------------------------------------------------------------------------|
-| `painel-performance-logistica` | Dashboard em Power BI com análise de SLA, cancelamentos e falhas por rota |
-| `automacao-alertas-kpi`        | n8n + Python para envio de alertas baseados em desvios de performance     |
-| `etl-planilha-estoque`         | Script de Python para tratamento e carga de dados de estoque              |
-| `nps-operacional`              | Coleta de feedback com Forms + Power BI para medir clima e percepção interna |
-| `appsheet-operacional`         | Sistema com Google Sheets + App Script + HTML para gestão de fluxo e visualização personalizada |
+| `painel-performance-logistica` | Power BI com DAX para análise de SLA e falhas logísticas                  |
+| `app-operacional-sheet`        | App Script + HTML/CSS para gestão interna via Google Sheets               |
+| `automacao-kpi-python`         | Script Python + n8n para envio de alertas via e-mail e Slack              |
+| `dashboard-streamlit`          | Visualização web com Streamlit + Pandas para operação logística           |
+| `pipeline-integracao-api`      | Integração com APIs e banco de dados usando Node.js e Python              |
 
 ---
 
-## 📫 Contato
+## 🌍 Sobre mim
 
-Se quiser conhecer mais ou bater um papo sobre dados e operações:
+Atuo de forma colaborativa, entregando soluções com responsabilidade, visão estratégica e foco em impacto real.  
+Sou movido por dados, aprendizado contínuo e melhoria de processos com propósito.
 
+---
+
+## 📫 Vamos conversar?
+
+- 🔗 [LinkedIn](https://linkedin.com/in/luis-henrique-camargo)
 - 📧 lh.santos2013@gmail.com
-- 🔗 [linkedin.com/in/luis-henrique-camargo](https://linkedin.com/in/luis-henrique-camargo)
-- 🧠 Portfólio em PDF disponível sob demanda
+- 📁 Portfólio em PDF e cases disponíveis sob demanda
+
