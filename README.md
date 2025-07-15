@@ -1,16 +1,33 @@
-## Hi there 👋
 
-<!--
-**LuisHenriqueCamargo/LuisHenriqueCamargo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou **Luis Camargo**, especialista em dados aplicados à operação.  
+Tenho experiência sólida com **Power BI, Python, SQL, Google Sheets (App Script) e automações com n8n**, atuando com foco em:
 
-Here are some ideas to get you started:
+- Estruturação de **KPIs e dashboards executivos**
+- **Automação de processos manuais e repetitivos**
+- Integração de dados entre áreas (comercial, operação, logística)
+- Apoio à **tomada de decisão baseada em dados**
+- Criação de **soluções completas com App Script + HTML para interfaces customizadas**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Busco sempre entregar soluções simples, funcionais e escaláveis — conectando análise técnica com visão estratégica de negócio.
+
+---
+
+## 🚀 Projetos em destaque
+
+| Projeto                         | Descrição                                                                 |
+|--------------------------------|---------------------------------------------------------------------------|
+| `painel-performance-logistica` | Dashboard em Power BI com análise de SLA, cancelamentos e falhas por rota |
+| `automacao-alertas-kpi`        | n8n + Python para envio de alertas baseados em desvios de performance     |
+| `etl-planilha-estoque`         | Script de Python para tratamento e carga de dados de estoque              |
+| `nps-operacional`              | Coleta de feedback com Forms + Power BI para medir clima e percepção interna |
+| `appsheet-operacional`         | Sistema com Google Sheets + App Script + HTML para gestão de fluxo e visualização personalizada |
+
+---
+
+## 📫 Contato
+
+Se quiser conhecer mais ou bater um papo sobre dados e operações:
+
+- 📧 luis.camargo@seudominio.com *(substitua pelo seu e-mail real)*
+- 🔗 [linkedin.com/in/luis-henrique-camargo](https://linkedin.com/in/luis-henrique-camargo)
+- 🧠 Portfólio em PDF disponível sob demanda
