@@ -1,4 +1,3 @@
-
 Sou **Luis Camargo**, especialista em dados aplicados à operação.  
 Tenho experiência sólida com **Power BI, Python, SQL, Google Sheets (App Script) e automações com n8n**, atuando com foco em:
 
@@ -28,6 +27,6 @@ Busco sempre entregar soluções simples, funcionais e escaláveis — conectand
 
 Se quiser conhecer mais ou bater um papo sobre dados e operações:
 
-- 📧 luis.camargo@seudominio.com *(substitua pelo seu e-mail real)*
+- 📧 lh.santos2013@gmail.com
 - 🔗 [linkedin.com/in/luis-henrique-camargo](https://linkedin.com/in/luis-henrique-camargo)
 - 🧠 Portfólio em PDF disponível sob demanda
