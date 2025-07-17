@@ -10,10 +10,10 @@ Atuo com tecnologia, automação e análise estratégica para transformar opera�
 Tenho experiência prática com diversas ferramentas e linguagens, incluindo:
 
 - **📊 BI & Dados**: Power BI, DAX, Python (Pandas, Numpy), SQL
-- **🧠 Automação & Workflow**: Python, n8n, App Script (Google),APIs
+- **🧠 Automação & Workflow**: Python, n8n, App Script (Google),Typescript (Microsoft) ,Excel (VBA) 
 - **🌐 Web**: HTML5, CSS3, JavaScript, Node.js
 - **📈 Visualização e Insight**: Dashboards executivos, indicadores, painéis NPS e operacionais
-- **🧩 Integração de fontes**: APIs, Google Sheets, bancos relacionais e não relacionais
+- **🧩 Integração de fontes**: APIs, Serviço em nuvem, bancos relacionais e não relacionais
 - **🧪 Análise preditiva e performance**: Modelagem de dados com foco em operação e resultado
 
 ---
