@@ -52,7 +52,7 @@ Sou movido por dados, aprendizado contínuo e melhoria de processos com propósi
 ## 📫 Vamos conversar?
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/luisespecialista/)
-- 📧 lh.santos2013@gmail.com
+- 📧 especialista.luiscamargo@gmail.com
 - 📞 WhatsApp: [11 94088-0735](https://wa.me/5511940880735)
 - 📁 Portfólio em PDF e cases disponíveis sob demanda
 
