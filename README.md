@@ -52,7 +52,7 @@ Com isso, entrego soluções **que reduzem custos, aumentam produtividade e fort
 |----------|------------|
 | [`micro-saas-logistica-demo`](https://github.com/LuisHenriqueCamargo/micro-saas-logistica-demo) | Protótipo de **SaaS logístico inteligente**, desenvolvido em Python + Flask + SQLite. Simula uma torre de controle com KPIs, alertas e integração de dados para operações logísticas em tempo real. |
 | [`portfólio_supplyiq`](https://github.com/LuisHenriqueCamargo/portifolio_supplyiq)| Arquitetura de **análise e performance logística**, com pipelines Python e Power BI para KPIs de SLA, custo de transporte, fulfillment e nível de serviço. |
-| [`sistema-locação`] (https://github.com/LuisHenriqueCamargo/sistema-locacao ) | Aplicação web para **gestão de locações e controle de ativos**, criada em HTML/CSS e JavaScript. Modelo de front-end para operações de suporte e facilities. |
+| [`sistema-locação`](https://github.com/LuisHenriqueCamargo/sistema-locacao) | Aplicação web para **gestão de locações e controle de ativos**, criada em HTML/CSS e JavaScript. Modelo de front-end para operações de suporte e facilities. |
 | [`Luis Henrique Camargo`](https://github.com/LuisHenriqueCamargo/Luis-Henrique-Camargo) | Repositório pessoal de estudos, testes e prototipagem em **Python, SQL e engenharia de dados**, usado para validação de modelos, ETLs e automações. |
 
 ---
