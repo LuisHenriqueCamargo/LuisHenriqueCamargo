@@ -1,78 +1,78 @@
 <h1 align="center">👋 Olá, eu sou <strong>Luis Camargo</strong></h1>
-<h3 align="center">Especialista em Logística e Engenharia de Dados</h3>
+<h3 align="center">Analytics Engineer | Especialista em Modelagem de Dados e BI</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/luisespecialista/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:especialista.luiscamargo@gmail.com">
-    <img src="https://img.shields.io/badge/Email-especialista.luiscamargo%40gmail.com-red?logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://wa.me/5511940880735">
-    <img src="https://img.shields.io/badge/WhatsApp-Contato-brightgreen?logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
+  <a href="https://www.linkedin.com/in/luisespecialista/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:especialista.luiscamargo@gmail.com">
+    <img src="https://img.shields.io/badge/Email-especialista.luiscamargo%40gmail.com-red?logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://wa.me/5511940880735">
+    <img src="https://img.shields.io/badge/WhatsApp-Contato-brightgreen?logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
 </p>
 
 ---
 
-Sou **Especialista em Dados e Operações Logísticas**, com foco em construir soluções **inteligentes, escaláveis e orientadas à performance**.  
-Transformo dados operacionais em **decisões estratégicas**, conectando **negócio, tecnologia e eficiência** através de análises, automação e engenharia de dados.
+Sou **Analytics Engineer em formação** com forte background em Logística e *Business Intelligence*.
+
+Meu foco é **construir e otimizar a camada de dados analítica (Data Warehouse)**, garantindo que os usuários de negócio e equipes de BI tenham acesso a dados **modelados, confiáveis e de alta performance**.
+
+Transformo requisitos de negócio em **modelos dimensionais (Star Schema)** utilizando as melhores práticas de Engenharia.
 
 ---
 
 ## 🚀 Stack Técnica
 
-Tenho experiência prática em ambientes analíticos e de engenharia de dados, com domínio nas seguintes áreas:
+Tenho experiência prática e proficiência na construção e manutenção da camada analítica (GOLD/DW):
 
-- **📊 Dados & BI:** Power BI, DAX, Python (Pandas, NumPy), SQL  
-- **⚙️ Engenharia de Dados:** DBT Core, PostgreSQL, Airflow, Docker, ETL  
-- **🧠 Automação & Workflow:** Python, n8n, App Script, Excel (VBA), API REST  
-- **🌐 Web & Integração:** HTML5, CSS3, JavaScript, Node.js  
-- **📈 Performance Logística:** SLA, KPI, NPS, Crossdocking, Fulfillment e TMS/WMS  
+- **📐 Modelagem & Transformação:** **SQL (Avançado)**, **DBT Core** (Transformação As Code), **Modelagem Dimensional** (Star Schema), PostgreSQL, SQL Server.
+- **📊 Business Intelligence:** **Power BI (DAX Avançado)**, Criação de Data Marts e Conjuntos de Dados Otimizados, Relatórios de Alta Performance.
+- **⚙️ Data Ops & Orquestração:** **Apache Airflow**, Pipelines ETL/ELT, Python (Pandas, PyArrow), Docker.
+- **💎 Data Quality & Governança:** **Soda Core**, Validação de Schema, Testes de Integridade de Dados.
+- **🌐 Data Lake & Integração:** MinIO (S3-Compatible), Formato **Parquet**, API REST, Ferramentas de Automação (n8n).
+- **📈 Foco em Negócio:** KPI, SLA, Fulfillment, WMS/TMS (Logística).
 
 ---
 
 ## 💼 Como eu atuo
 
-Meu foco é **unir visão de negócio com engenharia de dados** para gerar valor real nas operações:
+Atuo como a **ponte estratégica entre a Engenharia de Dados e o Consumo Analítico**, com foco em:
 
-- 📦 Otimização de processos logísticos e supply chain  
-- 🔗 Integração entre sistemas (ERP, WMS, TMS, APIs externas)  
-- ⚙️ Automação de relatórios e indicadores operacionais  
-- 🚨 Geração de alertas preditivos e análises de exceção  
-- 📊 Desenvolvimento de dashboards estratégicos em Power BI  
+- **Modelagem Analítica:** Criação de modelos dimensionais otimizados (Camada GOLD) em PostgreSQL, visando consultas de baixa latência pelo BI.
+- **Qualidade As Code:** Implementação de testes de dados com **Soda Core** dentro dos pipelines, garantindo a confiabilidade da fonte de dados antes do consumo.
+- **Transformação Orquestrada:** Desenvolvimento de transformações SQL/Python e orquestração de *jobs* no **Airflow** (substituindo o trabalho manual de ETL).
+- **Habilitação de BI:** Desenvolvimento de Data Marts e *datasets* no Power BI, utilizando **DAX** para indicadores complexos.
 
-Com isso, entrego soluções **que reduzem custos, aumentam produtividade e fortalecem o controle operacional**.
+Com isso, entrego soluções **escaláveis, testáveis e prontas para auditoria**.
 
 ---
 
-## 📂 Projetos em Destaque
+## 📂 Projetos em Destaque (Portfólio)
 
 | Projeto | Descrição |
 |----------|------------|
-| [`micro-saas-logistica-demo`](https://github.com/LuisHenriqueCamargo/micro-saas-logistica-demo) | Protótipo de **SaaS logístico inteligente**, desenvolvido em Python + Flask + SQLite. Simula uma torre de controle com KPIs, alertas e integração de dados para operações logísticas em tempo real. |
-| [`portfólio_supplyiq`](https://github.com/LuisHenriqueCamargo/portifolio_supplyiq)| Arquitetura de **análise e performance logística**, com pipelines Python e Power BI para KPIs de SLA, custo de transporte, fulfillment e nível de serviço. |
-| [`sistema-locação`](https://github.com/LuisHenriqueCamargo/sistema-locacao) | Aplicação web para **gestão de locações e controle de ativos**, criada em HTML/CSS e JavaScript. Modelo de front-end para operações de suporte e facilities. |
-| [`Luis Henrique Camargo`](https://github.com/LuisHenriqueCamargo/Luis-Henrique-Camargo) | Repositório pessoal de estudos, testes e prototipagem em **Python, SQL e engenharia de dados**, usado para validação de modelos, ETLs e automações. |
+| [`logistic-data-lake-medallion`](https://github.com/LuisHenriqueCamargo/novo-projeto-data-lake) **(Novo)** | Arquitetura de **Analytics Engineering** (Medallion), com Airflow e PostgreSQL. Foco na transformação da camada Bronze/Silver para modelos de dados analíticos na camada GOLD, utilizando **Soda Core** para qualidade. |
+| [`portfólio_supplyiq`](https://github.com/LuisHenriqueCamargo/portifolio_supplyiq)| Arquitetura de **análise de performance logística**, com pipelines em Python e Power BI. Focado em consolidar dados brutos para alimentar KPIs de SLA, custo de transporte e nível de serviço. |
+| [`micro-saas-logistica-demo`](https://github.com/LuisHenriqueCamargo/micro-saas-logistica-demo) | Protótipo de **aplicação de torre de controle logístico** (Flask/Python). Demonstra a capacidade de integrar API's e visualizar KPIs em tempo real. |
+| [`Luis Henrique Camargo`](https://github.com/LuisHenriqueCamargo/Luis-Henrique-Camargo) | Repositório pessoal de estudos e prototipagem em **Python, SQL e modelagem de dados**, usado para validação de conceitos analíticos. |
 
 ---
 
 ## 🌍 Sobre mim
 
-Acredito que **dados e logística caminham juntos**.  
-Cada métrica conta uma história, e cada operação pode ser aprimorada com tecnologia e engenharia de dados.  
-Sou movido por **aprendizado contínuo, inovação e execução com propósito**.
+Acredito que o valor de um dado está na sua **estrutura analítica**. Sou movido por **aprendizado contínuo** (especialmente em dbt e práticas de Data Ops) e pela satisfação de entregar a **fonte única da verdade** para o time de análise.
 
 ---
 
 ## 📫 Vamos conversar?
 
-📧 **E-mail:** [especialista.luiscamargo@gmail.com](mailto:especialista.luiscamargo@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/luisespecialista](https://www.linkedin.com/in/luisespecialista/)  
-📞 **WhatsApp:** [11 94088-0735](https://wa.me/5511940880735)  
-📁 **Portfólio e cases** disponíveis sob demanda  
+📧 **E-mail:** [especialista.luiscamargo@gmail.com](mailto:especialista.luiscamargo@gmail.com)
+💼 **LinkedIn:** [linkedin.com/in/luisespecialista](https://www.linkedin.com/in/luisespecialista/)
+📞 **WhatsApp:** [11 94088-0735](https://wa.me/5511940880735)
+📁 **Portfólio e cases** disponíveis sob demanda
 
 ---
 
-> 💡 “Transformar dados em inteligência e operações em vantagem competitiva.”
-
+> 💡 “Transformar dados em inteligência e operações em vantagem competitiva, começando pela **modelagem**.”
