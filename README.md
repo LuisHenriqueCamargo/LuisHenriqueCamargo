@@ -53,7 +53,7 @@ Com isso, entrego soluções **escaláveis, testáveis e prontas para auditoria*
 
 | Projeto | Descrição |
 |----------|------------|
-| [`logistic-data-lake-medallion`](https://github.com/LuisHenriqueCamargo/novo-projeto-data-lake) **(Novo)** | Arquitetura de **Analytics Engineering** (Medallion), com Airflow e PostgreSQL. Foco na transformação da camada Bronze/Silver para modelos de dados analíticos na camada GOLD, utilizando **Soda Core** para qualidade. |
+| [`logistic-data-lake-medallion`](https://github.com/LuisHenriqueCamargo/Logistic_Datalake) | Arquitetura de **Analytics Engineering** (Medallion), com Airflow e PostgreSQL. Foco na transformação da camada Bronze/Silver para modelos de dados analíticos na camada GOLD, utilizando **Soda Core** para qualidade. |
 | [`portfólio_supplyiq`](https://github.com/LuisHenriqueCamargo/portifolio_supplyiq)| Arquitetura de **análise de performance logística**, com pipelines em Python e Power BI. Focado em consolidar dados brutos para alimentar KPIs de SLA, custo de transporte e nível de serviço. |
 | [`micro-saas-logistica-demo`](https://github.com/LuisHenriqueCamargo/micro-saas-logistica-demo) | Protótipo de **aplicação de torre de controle logístico** (Flask/Python). Demonstra a capacidade de integrar API's e visualizar KPIs em tempo real. |
 | [`Luis Henrique Camargo`](https://github.com/LuisHenriqueCamargo/Luis-Henrique-Camargo) | Repositório pessoal de estudos e prototipagem em **Python, SQL e modelagem de dados**, usado para validação de conceitos analíticos. |
