@@ -15,7 +15,7 @@
 
 ---
 
-Sou **Analytics Engineer em formação** com forte background em Logística e *Business Intelligence*.
+Sou **Analytics Engineer** com forte background em Logística e *Business Intelligence*.
 
 Meu foco é **construir e otimizar a camada de dados analítica (Data Warehouse)**, garantindo que os usuários de negócio e equipes de BI tenham acesso a dados **modelados, confiáveis e de alta performance**.
 
