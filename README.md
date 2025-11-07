@@ -1,5 +1,5 @@
 <h1 align="center">👋 Olá, eu sou <strong>Luis Camargo</strong></h1>
-<h3 align="center">Analytics Engineer | Especialista em Modelagem de Dados e BI</h3>
+<h3 align="center">Analytics Engineer | Especialista em Otimização de Supply Chain e Modelagem de Dados</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/luisespecialista/" target="_blank">
@@ -14,14 +14,11 @@
 </p>
 
 ---
+Sou **Analytics Engineer** com forte *background* em **Logística e Supply Chain** .
 
-Sou **Analytics Engineer** com forte background em Logística e *Business Intelligence*.
+Meu foco é **transformar dados brutos em inteligência acionável** para gerar impacto direto no negócio, como **redução de custos de frete, otimização de rotas e melhoria da eficiência logística**.
 
-Meu foco é **construir e otimizar a camada de dados analítica (Data Warehouse)**, garantindo que os usuários de negócio e equipes de BI tenham acesso a dados **modelados, confiáveis e de alta performance**.
-
-Transformo requisitos de negócio em **modelos dimensionais (Star Schema)** utilizando as melhores práticas de Engenharia.
-
----
+Utilizo as melhores práticas de Engenharia de Dados (Modelagem Dimensional, ETL/ELT) e ferramentas modernas (**dbt, Airflow, Python**) para construir a camada analítica (Data Warehouse), garantindo que os dados sejam **confiáveis, governados e de alta performance** para as equipes de BI.
 
 ## 🚀 Stack Técnica
 
