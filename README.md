@@ -1,5 +1,5 @@
 <h1 align="center">👋 Olá, eu sou <strong>Luis Camargo</strong></h1>
-<h3 align="center">Analytics Engineer | Especialista em Otimização de Supply Chain e Modelagem de Dados</h3>
+<h3 align="center">  Analytics Engineer | Especialista em Otimização de Supply Chain e Modelagem de Dados</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/luisespecialista/" target="_blank">
@@ -14,7 +14,7 @@
 </p>
 
 ---
-Sou **Analytics Engineer** com forte *background* em **Logística e Supply Chain** .
+Sou **AnalyticsEngineer** com forte *background* em **Logística e Supply Chain** .
 
 Meu foco é **transformar dados brutos em inteligência acionável** para gerar impacto direto no negócio, como **redução de custos de frete, otimização de rotas e melhoria da eficiência logística**.
 
