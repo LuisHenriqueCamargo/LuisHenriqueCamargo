@@ -65,9 +65,9 @@ Acredito que o valor de um dado está na sua **estrutura analítica**. Sou movid
 
 ## 📫 Vamos conversar?
 
-📧 **E-mail:** [especialista.luiscamargo@gmail.com](mailto:luis.camargo@estrategiaqi.com.br)
+📧 **E-mail:** [luis.camargo@estrategiaqi.com.br](mailto:luis.camargo@estrategiaqi.com.br)
 💼 **LinkedIn:** [linkedin.com/in/luisespecialista](https://www.linkedin.com/in/luisespecialista/)
-📞 **WhatsApp:** [11 94088-0735](https://wa.me/551198126226)
+📞 **WhatsApp:** [11 98126-3226](https://wa.me/551198126226)
 📁 **Portfólio e cases** disponíveis sob demanda
 
 ---
